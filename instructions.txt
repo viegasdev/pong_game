@@ -1,0 +1,12 @@
+Hello! Thanks for downloading my Pong version! :)
+I really hope that you like it!
+
+CONTROLS:
+Paddle A (left) -> W to move up and S to move down
+Paddle B (right) -> Arrow Up to move up and Arrow Down to move down
+
+Attention: Once you open the python file, it will ask you (in terminal) to insert Player's A name and Player's B name and then, the game will immediately!
+
+Thanks for playing!
+
+- viegasdev
